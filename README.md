@@ -1,5 +1,5 @@
-# hairulardi.github.io
-Website Portofolio Hairul Ardi  
+# fahrizasrynt.github.io
+Website Fahriza Suryanto 
 
 ##Credits
 * Font Awesome by [Dave Gandy] (http://fontawesome.io)
