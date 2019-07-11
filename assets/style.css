@@ -195,7 +195,7 @@ hr:not(.hr-header)
 /*Section Portfolio*/
 #portfolio
 {
-    background-color: #2BB3DD;
+    background-color: #0d335e;
 }
 #portfolio h2
 {
@@ -441,7 +441,7 @@ hr:not(.hr-header)
 #about img
 {
     width: 70%;
-    border: 3px solid #474d5d;
+    border: 3px solid #000000;
     border-radius: 50%;
 }
 
@@ -505,7 +505,7 @@ hr:not(.hr-header)
 /*Section Contact*/
 #contact
 {
-    background-color: #2BB3DD;
+    background-color: #0d335e;
     color: #ffffff;
 }
 #contact h4
