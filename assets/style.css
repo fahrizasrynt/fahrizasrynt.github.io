@@ -108,7 +108,7 @@ hr:not(.hr-header)
 /*Header*/
 .header
 {
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../images/wallpaper4.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("../images/biru.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -575,7 +575,7 @@ hr:not(.hr-header)
 footer
 {
     color: #fff;
-    background-color: #474D5D;
+    background-color: #000000;
     padding: 20px;
     font-size: 15px;
 }
